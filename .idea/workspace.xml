@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="485ff7f3-8f89-4cdd-ae37-f28ff73c05e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/components/form/hidden.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/todos/edit.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/TodosController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/TodosController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/FormServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/FormServiceProvider.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/todos/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/todos/show.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,17 +26,27 @@
     <favorites_list name="todolist" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.3856">
+    <splitter split-orientation="horizontal" split-proportion="0.4512">
       <split-first>
         <leaf>
-          <file leaf-file-name="TodosController.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="TodosController.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TodosController.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="527">
-                  <caret line="94" column="59" lean-forward="false" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
+                <state relative-caret-position="722">
+                  <caret line="107" column="59" lean-forward="false" selection-start-line="107" selection-start-column="59" selection-end-line="107" selection-end-column="59" />
                   <folding>
                     <element signature="e#40#68#0#PHP" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resources/views/todos/show.blade.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -62,8 +68,8 @@
           <file leaf-file-name="edit.blade.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resources/views/todos/edit.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+                <state relative-caret-position="120">
+                  <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="9" selection-end-column="40" />
                   <folding />
                 </state>
               </provider>
@@ -119,11 +125,11 @@
         <option value="$PROJECT_DIR$/resources/views/components/form/textarea.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/todos/create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/components/form/submit.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/todos/show.blade.php" />
         <option value="$PROJECT_DIR$/app/Providers/FormServiceProvider.php" />
         <option value="$PROJECT_DIR$/resources/views/components/form/hidden.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/TodosController.php" />
         <option value="$PROJECT_DIR$/resources/views/todos/edit.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/TodosController.php" />
+        <option value="$PROJECT_DIR$/resources/views/todos/show.blade.php" />
       </list>
     </option>
   </component>
@@ -140,8 +146,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-33" />
-    <option name="y" value="562" />
+    <option name="x" value="58" />
+    <option name="y" value="570" />
     <option name="width" value="1622" />
     <option name="height" value="971" />
   </component>
@@ -436,7 +442,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="show.&#9;FILE&#9;file:///Users/marscheung/SideProjects/todolist/resources/views/todos/show.blade.php&#10;AppService&#9;null&#9;null&#10;.env&#9;FILE&#9;file:///Users/marscheung/SideProjects/todolist/.env" />
+    <property name="SearchEverywhereHistoryKey" value="show&#9;FILE&#9;file:///Users/marscheung/SideProjects/todolist/resources/views/todos/show.blade.php&#10;show.&#9;FILE&#9;file:///Users/marscheung/SideProjects/todolist/resources/views/todos/show.blade.php&#10;AppService&#9;null&#9;null&#10;.env&#9;FILE&#9;file:///Users/marscheung/SideProjects/todolist/.env" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
@@ -539,12 +545,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546885390224</updated>
       <workItem from="1546885392584" duration="9373000" />
-      <workItem from="1546927225284" duration="2893000" />
+      <workItem from="1546927225284" duration="3698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12266000" />
+    <option name="totallyTimeSpent" value="13071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -556,7 +562,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-33" y="562" width="1622" height="971" extended-state="0" />
+    <frame x="58" y="570" width="1622" height="971" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22934648" sideWeight="0.4947644" order="0" side_tool="false" content_ui="combo" />
@@ -638,6 +644,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -724,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/todos/show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/todos/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -771,16 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TodosController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="94" column="59" lean-forward="false" selection-start-line="94" selection-start-column="59" selection-end-line="94" selection-end-column="59" />
-          <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Providers/FormServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -799,8 +789,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/todos/edit.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="68" lean-forward="false" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        <state relative-caret-position="120">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/TodosController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="107" column="59" lean-forward="false" selection-start-line="107" selection-start-column="59" selection-end-line="107" selection-end-column="59" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/todos/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
           <folding />
         </state>
       </provider>
